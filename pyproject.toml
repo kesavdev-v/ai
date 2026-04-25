@@ -1,0 +1,6 @@
+[project]
+name="supplychain"
+version="1.0"
+
+[tool.openenv]
+entry_point="server.app:app"
